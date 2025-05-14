@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kk123121/ArganREWRITE/refs/heads/main/ArganREWRITE.lua'))
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kk123121/ArganREWRITE/refs/heads/main/ArganREWRITE.lua', true))()
